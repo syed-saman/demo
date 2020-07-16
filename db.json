@@ -1,14 +1,2 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"WCToken":"140859%2C32sVhKLrR5jY1dKOoQyT7YNpuxKFDZGODl3Ay1EC8XgHjznBhZvIYYD8s032MbkX66AFgk0PQjon2FYUbGZ2iLLvfGwXqSXY2n%2F0lFFsLUjaYfNRZ7gNIwFVWw3zTqiaKJw5Scv9sKM6kZ%2FyhB%2FvGiKRruaqXN%2BFNBs4Wqt3B%2FMEe3YL2azf57fQ%2FvVW8vqlblUUfj4WiHDSvHcmFjB5Nmzlng3RPGO7fkZiyrMuf4cCLYhcQJIOx1kmrS6eYKyO","userId":"140859",
+ "WCTrustedToken":"140859%2CIBX5%2F6nqsCVdB4uu6DfRx55bhAyPrDc71IoUrO76Wrw%3D","personalizationID":"1593509302959-1"}
