@@ -8,7 +8,9 @@
           {"validTo":"2023-12-13","expiryDate":null,"name":"healthcare","number":"123123123A","patientReferenceNumber":"3"},
           {"validTo":null,"expiryDate":null,"name":"safetynet","number":"AAA","patientReferenceNumber":"4"}],
        "image":
-       ["data:image\/jpeg;base64,\/9j\/4QAY"],
+       ["data:image\/jpeg;base64,\/9j\/4QAY",
+       "data:image\/jpeg;base64,\/9j\/4QsfsAY",
+       "data:image\/jpeg;base64,\/9j\/4QbfbfAY"],
        "gender":"M"},
       "orderId":"121151002"}
   },
