@@ -5,10 +5,10 @@
        "token":"SCBJHSGFCSGdsnhcghs12342b",
        "entitlementCards":
           [{"validTo":"2022-12","expiryDate":null,"name":"medicare","number":"3318790786","patientReferenceNumber":"2"},
-          {"validTo":"2023-12-13","expiryDate":null,"name":"healthcare","number":"123123123A","patientReferenceNumber":null},
-          {"validTo":null,"expiryDate":null,"name":"safetynet","number":"AAA","patientReferenceNumber":null}],
-       "images":
-       [{"image":"ancbsjacs"},{"image":"bancbsjacs"},{"image":"cancbsjacs"}],
+          {"validTo":"2023-12-13","expiryDate":null,"name":"healthcare","number":"123123123A","patientReferenceNumber":"3"},
+          {"validTo":null,"expiryDate":null,"name":"safetynet","number":"AAA","patientReferenceNumber":"4"}],
+       "image":
+       ["data:image\/jpeg;base64,\/9j\/4QAY"],
        "gender":"M"},
       "orderId":"121151002"}
   },
